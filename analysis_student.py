@@ -18,6 +18,5 @@ passing_score = 50
 passed = scores >= passing_score
 print(passed)
 
-
 passed_score = scores[scores >= passing_score]
 print(f"Total passed score: {passed_score} ")
